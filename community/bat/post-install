@@ -1,9 +1,0 @@
-#!/bin/sh
-
-cat <<EOF
-
-NOTE: For 'bat' to work properly, switch to the full-featured 'less' pager:
-
--> kiss a less /usr/bin/less
-
-EOF
